@@ -44,9 +44,9 @@ Evaluate model accuracy, plot loss curves, and visualize predictions on a sample
 
 ## PROGRAM
 
-### Name: Jassir Sulthan
+### Name: sasinthara s
 
-### Register Number: 212224240060
+### Register Number:212223110045
 
 ```
 import pandas as pd
